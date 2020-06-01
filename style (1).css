@@ -1,0 +1,61 @@
+body
+{
+  text-align: center;
+  background-color: #f1f1f1;
+  font-family:Arial;
+}
+.zaglavlje{
+  background-color: #f1f1f1;
+  margin-bottom: 5px;
+  padding:20px;
+}
+.navbar
+{
+  background-color: black;
+  margin-bottom: 5px;
+  padding:20px;
+}
+.sadrzaj
+{
+  display: flex;
+}
+.lijevi
+{
+  width: 75%;
+  background-color: white;
+  margin: 5px 5px 5px 0px;
+  text-align: left;
+}
+.desni
+{
+  width:25%;
+  margin: 5px 0px 5px 0px;
+  background-color: white;
+  text-align: left;
+}
+.podnozje
+{
+width:100%;
+font-size: 200%;
+background-color: grey;
+border-style: solid;
+border-width: inherit;
+}
+.objava
+{
+  background-color: white;
+}
+.omeni
+{
+  background-color: white;
+
+}
+hr
+{
+  border: 2px solid black;
+width: 100%;
+}
+.vl {
+  border-left: 2px solid black;
+  height: 100%;
+}
